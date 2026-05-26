@@ -1,0 +1,6 @@
+{
+  "name": "Diver Log & Instructor Hub",
+  "description": "Comprehensive visual diver logs, student certifications, instructor logs, safety manuals, booking, and buddy recruiting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
